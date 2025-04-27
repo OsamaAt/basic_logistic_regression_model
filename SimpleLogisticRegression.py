@@ -45,6 +45,6 @@ print(f'Final Cost: {cost[-1]} ')
 x_test = np.array([1, 3.5])  # 1 for bias, 3.5 study hours
 probability = sigmoid(np.dot(x_test, theta))
 if probability >= 0.5:
-    print("Prediction: Pass ✅")
+    print(f"Prediction: Pass ✅{probability}")
 else:
-    print("Prediction: Fail ❌")
+    print(f"Prediction: Fail ❌{probability}")
