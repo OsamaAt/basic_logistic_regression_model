@@ -1,5 +1,5 @@
 # Logistic Regression from Scratch - Predicting Student Pass/Fail 
-#(Scroll down for Arabic Version) (مرر للأسفل للوصول إلى النسخة العربية)
+## (Scroll down for Arabic Version) (مرر للأسفل للوصول إلى النسخة العربية)
 
 
 
@@ -27,8 +27,8 @@ This project implements a simple logistic regression model from scratch using on
 - After training, the model can predict the probability of passing based on study hours.
 - For example, studying **3.5 hours** yields a probability of passing of about **0.56%** (replace it with actual result).
 
-#Author ✍️
-##OsamaAT
+# Author ✍️
+## OsamaAT
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -61,5 +61,5 @@ This project implements a simple logistic regression model from scratch using on
 - كمثال: دراسة **3.5 ساعات** تعطي احتمال نجاح بحوالي **%0.56** (قم بتحديث النسبة حسب نتائجك).
 
 ---
-#المولف✍️
-##OsamaAt
+# المولف✍️
+## OsamaAt
